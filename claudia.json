@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "final-executor",
+    "name": "final",
+    "region": "ap-southeast-1"
+  },
+  "api": {
+    "id": "1m4rmw5weh"
+  }
+}
